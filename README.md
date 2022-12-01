@@ -3,4 +3,4 @@ Just making sure that i am consistent everyday in solving atleast two programmin
 
 ### Basic questions :
 1 . Remove Duplicates from sorted array <br>
-2. Unique occurrences in an non-decreasing order of an array
+2 . Unique occurrences in an non-decreasing order of an array
